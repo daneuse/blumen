@@ -6,7 +6,8 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
         <link href="https://fonts.cdnfonts.com/css/suboleya" rel="stylesheet">
-        <link rel="stylesheet" href="style.css">  
+        <link href="https://fonts.cdnfonts.com/css/bariol-bold" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
 <title>Pagina 1</title>
 </head>
 <body>
@@ -17,7 +18,7 @@
                 <ul class="nav navbar-nav">
                     <li class="active">
                         <a href="menu.html">Menu</a>
-                    </li>
+                    </li>s
                     <li class="active">
                         <a href="pedido.html">Pedido</a>
                     </li>
@@ -28,14 +29,20 @@
             </div>
         </nav>           
     </div>
-    <h1>Pedido realizado</h1>    
-<h3>con éxito</h3>
+    <h1>Pedido realizado<br> 
+        con éxito</h1>   
 <ul>
     <li><strong>Nombre: </strong> <span id="nombre"></span></li>
     <li><strong>Apellido: </strong> <span id="apellido"></span></li>
-    <li><strong>Telefono: </strong> <span id="telefono"></span></li>
-    <li><strong>Direccion: </strong> <span id="direccion"></span></li>    
-    <li><strong>Colonia: </strong> <span id="colonia"></span></li>    
+    <li><strong>Teléfono: </strong> <span id="telefono"></span></li>
+    <li><strong>Dirección: </strong> <span id="direccion"></span></li>    
+    <li><strong>Colonia: </strong> <span id="colonia"></span></li>
+    <br>
+    <li><strong>Orden: </strong> <span id="menu"></span></li>
+    <li><strong>Crema: </strong> <span id="crema"></span></li>
+    <li><strong>Puré de papa: </strong> <span id="papas"></span></li>
+    <li><strong>Salsa: </strong> <span id="salsa"></span></li>
+    <li><strong>Bastones de zanahorias: </strong> <span id="zanahorias"></span></li>
 </ul>
 <script>
     const orden=JSON.parse(localStorage.getItem("orden"));
@@ -44,6 +51,11 @@
     document.getElementById("telefono").textContent=orden.telefono;
     document.getElementById("direccion").textContent=orden.direccion;
     document.getElementById("colonia").textContent=orden.colonia;
+    document.getElementById("menu").textContent=orden.menu;
+    document.getElementById("crema").textContent=orden.crema;
+    document.getElementById("papas").textContent=orden.papas;
+    document.getElementById("salsa").textContent=orden.salsa;
+    document.getElementById("zanahorias").textContent=orden.zanahorias;
 </script>
 </body>
 </html>
