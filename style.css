@@ -1,7 +1,7 @@
 body{
-    font-family: 'HelloRecess', sans-serif;
-                                                
-    background-color: antiquewhite;
+    font-family: 'Suboleya', sans-serif;
+    font-size: 16px;                                                                                    
+    background-color: rgb(250, 243, 214);
                                                 
 }
 .center{
@@ -18,11 +18,17 @@ body{
     font-size: 40px;
     text-align: center;
 }
-
+h1{
+    margin-left: 200px;
+    color: rgb(28, 48, 63);
+}
+h3{
+    margin-left: 200px;
+}
 table{
     margin-left: 200px;
-    background-color: rgb(221, 181, 144);
-    color: rgb(80, 20, 20);
+    background-color:  rgb(15, 15, 22);
+    color: rgb(111, 121, 129);
     text-align: center;
     width: 700px;
 }
@@ -34,4 +40,5 @@ th{
 .hamburguesa{
 color:rgb(221, 181, 144)
 }
+
 
