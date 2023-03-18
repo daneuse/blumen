@@ -1,0 +1,142 @@
+{"menu":[
+    {
+        "id":1,
+        "nombre":"hamburguesa",
+        "descripción": "doble carne con tocino, queso amarillo, jalapeño",
+        "precio": 190,
+        "imagen": "img/hamburguesa.jpg"
+    },
+    {
+        "id":2,
+        "nombre":"Macarrones",
+        "descripción":"Queso, salsa de tomate, crema",
+        "precio":120,
+        "imagen":"img/macarrones.jpg"
+    },
+    {
+        "id":3,
+        "nombre":"Espagueti",
+        "descripción":"Pasta de tomate, queso, carne molida, pimiento rojo",
+        "precio":150,
+        "imagen":"img/espagueti.jpg"
+    },
+    {
+        "id":4,
+        "nombre":"Tacos",
+        "descripción":"Trompo, bistec, piña, cebolla",
+        "precio $":150,
+        "imagen":"img/tacos.jpg"
+    },
+    {
+        "id":5,
+        "nombre":"Lasaña",
+        "descripción":"Queso parmesano, carne, salsa boloñesa, tomate, zanahoria",
+        "precio $":160,
+        "imagen":"img/lasaña.jpg"
+    },
+    {
+        "id":6,
+        "nombre":"Ensalada",
+        "descripción":"Pepino, papas, zanahorias, crema, apio",
+        "precio $":100,
+        "imagen":"img/.jpg"
+    },
+    {
+        "id":7,
+        "nombre":"Sopa",
+        "descripción":"Fideos, jitomates, cebolla, ajo",
+        "precio $":80,
+        "imagen":"img/ensalada.webp"
+    },
+    {
+        "id":8,
+        "nombre":"Pizza",
+        "descripción":"Queso, pepperoni, piña, salsa de tomate",
+        "precio $":180,
+        "imagen":"img/pizza.jpg"
+    },
+    {
+        "id":9,
+        "nombre":"Tortas",
+        "descripción":"Tomate, aguacate, queso, jamón, mayonesa",
+        "precio $":70,
+        "imagen":"img/torta.png"
+    },
+    {
+        "id":10,
+        "nombre":"Pay",
+        "descripción":"Leche, mantequilla, queso crema",
+        "precio $":60,
+        "imagen":"img/pay.jpg"
+    },
+    {
+        "id":11,
+        "nombre":"Flan",
+        "descripción":"Huevo, leche condensada, leche evaporada, vainilla",
+        "precio $":90,
+        "imagen":"img/flan.jpg"
+    },
+    {
+        "id":12,
+        "nombre":"Pastel de tres leches",
+        "descripción":"Leche, vainilla, huevo, frutos rojos y moras",
+        "precio $":120,
+        "imagen":"img/pastel.jpg"
+    },
+    {
+        "id":13,
+        "nombre":"Banana split",
+        "descripción":"plátano, helado de chocolate, vainilla y fresa, crema batida",
+        "precio $":140,
+        "imagen":"img/bananasplit.jpg"
+    },
+    {
+        "id":14,
+        "nombre":"Helado de chocolate",
+        "descripción":"Crema batida, dos bolas de chocolate, galleta, sirope de chocolate",
+        "precio $":80,
+        "imagen":"img/helado.jpg"
+    },
+    {
+        "id":15,
+        "nombre":"T",
+        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
+        "precio $":100,
+        "imagen":"img/.jpg"
+    },
+    {
+        "id":16,
+        "nombre":"T",
+        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
+        "precio $":100,
+        "imagen":"img/.jpg"
+    },
+    {
+        "id":17,
+        "nombre":"T",
+        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
+        "precio $":100,
+        "imagen":"img/.jpg"
+    },
+    {
+        "id":18,
+        "nombre":"T",
+        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
+        "precio $":100,
+        "imagen":"img/.jpg"
+    },
+    {
+        "id":19,
+        "nombre":"T",
+        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
+        "precio $":100,
+        "imagen":"img/.jpg"
+    },
+    {
+        "id":20,
+        "nombre":"T",
+        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
+        "precio $":100,
+        "imagen":"img/.jpg"
+    }
+]}
