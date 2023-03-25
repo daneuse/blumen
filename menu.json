@@ -2,141 +2,181 @@
     {
         "id":1,
         "nombre":"hamburguesa",
-        "descripción": "doble carne con tocino, queso amarillo, jalapeño",
+        "descripcion": "Doble carne con tocino, queso amarillo, jalapeño",
         "precio": 190,
         "imagen": "img/hamburguesa.jpg"
     },
     {
         "id":2,
         "nombre":"Macarrones",
-        "descripción":"Queso, salsa de tomate, crema",
+        "descripcion":"Queso, salsa de tomate, crema",
         "precio":120,
-        "imagen":"img/macarrones.jpg"
+        "imagen":"img/macarrones.png"
     },
     {
         "id":3,
         "nombre":"Espagueti",
-        "descripción":"Pasta de tomate, queso, carne molida, pimiento rojo",
+        "descripcion":"Pasta de tomate, queso, carne molida, pimiento rojo",
         "precio":150,
-        "imagen":"img/espagueti.jpg"
+        "imagen":"img/espagueti.png"
     },
     {
         "id":4,
         "nombre":"Tacos",
-        "descripción":"Trompo, bistec, piña, cebolla",
-        "precio $":150,
+        "descripcion":"Trompo, bistec, piña, cebolla",
+        "precio":150,
         "imagen":"img/tacos.jpg"
     },
     {
         "id":5,
         "nombre":"Lasaña",
-        "descripción":"Queso parmesano, carne, salsa boloñesa, tomate, zanahoria",
-        "precio $":160,
-        "imagen":"img/lasaña.jpg"
+        "descripcion":"Queso parmesano, carne, salsa boloñesa, tomate, zanahoria",
+        "precio":160,
+        "imagen":"img/lasaña.png"
     },
     {
         "id":6,
         "nombre":"Ensalada",
-        "descripción":"Pepino, papas, zanahorias, crema, apio",
-        "precio $":100,
-        "imagen":"img/.jpg"
+        "descripcion":"Pepino, papas, zanahorias, crema, apio",
+        "precio":100,
+        "imagen":"img/ensalada.png"
     },
     {
         "id":7,
         "nombre":"Sopa",
-        "descripción":"Fideos, jitomates, cebolla, ajo",
-        "precio $":80,
-        "imagen":"img/ensalada.webp"
+        "descripcion":"Fideos, jitomates, cebolla, ajo",
+        "precio":80,
+        "imagen":"img/sopa.jpg"
     },
     {
         "id":8,
         "nombre":"Pizza",
-        "descripción":"Queso, pepperoni, piña, salsa de tomate",
-        "precio $":180,
+        "descripcion":"Queso, pepperoni, piña, salsa de tomate",
+        "precio":180,
         "imagen":"img/pizza.jpg"
     },
     {
         "id":9,
         "nombre":"Tortas",
-        "descripción":"Tomate, aguacate, queso, jamón, mayonesa",
-        "precio $":70,
+        "descripcion":"Tomate, aguacate, queso, jamón, mayonesa",
+        "precio":70,
         "imagen":"img/torta.png"
     },
     {
         "id":10,
         "nombre":"Pay",
-        "descripción":"Leche, mantequilla, queso crema",
-        "precio $":60,
+        "descripcion":"Leche, mantequilla, queso crema",
+        "precio":60,
         "imagen":"img/pay.jpg"
     },
     {
         "id":11,
         "nombre":"Flan",
-        "descripción":"Huevo, leche condensada, leche evaporada, vainilla",
-        "precio $":90,
+        "descripcion":"Huevo, leche condensada, leche evaporada, vainilla",
+        "precio":90,
         "imagen":"img/flan.jpg"
     },
     {
         "id":12,
         "nombre":"Pastel de tres leches",
-        "descripción":"Leche, vainilla, huevo, frutos rojos y moras",
-        "precio $":120,
+        "descripció}on":"Leche, vainilla, huevo, frutos rojos y moras",
+        "precio":120,
         "imagen":"img/pastel.jpg"
     },
     {
         "id":13,
         "nombre":"Banana split",
-        "descripción":"plátano, helado de chocolate, vainilla y fresa, crema batida",
-        "precio $":140,
+        "descripcion":"plátano, helado de chocolate, vainilla y fresa, crema batida",
+        "precio":140,
         "imagen":"img/bananasplit.jpg"
     },
     {
         "id":14,
         "nombre":"Helado de chocolate",
         "descripción":"Crema batida, dos bolas de chocolate, galleta, sirope de chocolate",
-        "precio $":80,
+        "precio":80,
+        "imagen":"img/helado.jpg"
+    }
+],
+    "extras":[
+    {
+        "id":21,
+        "nombre":"Puré de papa",
+        "descripcion":"Papa, mantequilla y leche",
+        "precio":18,
+        "imagen":"img/purepapa.jpg"
+    },
+    {
+        "id":22,
+        "nombre":"Aderezo",
+        "descripcion":"Contiene especias",
+        "precio":10,
+        "imagen":"img/aderezo.png"
+    },
+    {
+        "id":23,
+        "nombre":"Salsa",
+        "descripcion":"Salsa roja",
+        "precio":15,
+        "imagen":"img/salsa.jpg"
+    },
+    {
+        "id":24,
+        "nombre":"Pepinillos",
+        "descripcion":"papinillos",
+        "precio":11,
+        "imagen":"img/salsa.jpg"
+    },
+    {
+        "id":25,
+        "nombre":"",
+        "descripcion":"Salsa roja",
+        "precio":15,
+        "imagen":"img/salsa.jpg"
+    }
+],
+ 
+    "bebidas":[
+    {
+        "id":26,
+        "nombre":"Limonada",
+        "descripcion":"Una jarra de limonada",
+        "precio":40,
         "imagen":"img/helado.jpg"
     },
     {
-        "id":15,
-        "nombre":"T",
-        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
-        "precio $":100,
-        "imagen":"img/.jpg"
+        "id":27,
+        "nombre":"Agua",
+        "descripcion":"Agua simple",
+        "precio":20,
+        "imagen":"img/helado.jpg"
     },
     {
-        "id":16,
-        "nombre":"T",
-        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
-        "precio $":100,
-        "imagen":"img/.jpg"
+        "id":28,
+        "nombre":"Sprite",
+        "descripcion":"Refresco",
+        "precio":25,
+        "imagen":"img/helado.jpg"
     },
     {
-        "id":17,
-        "nombre":"T",
-        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
-        "precio $":100,
-        "imagen":"img/.jpg"
+        "id":29,
+        "nombre":"Agua de piña",
+        "descripcion":"Agua de piña",
+        "precio":18,
+        "imagen":"img/helado.jpg"
     },
     {
-        "id":18,
-        "nombre":"T",
-        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
-        "precio $":100,
-        "imagen":"img/.jpg"
+        "id":30,
+        "nombre":"Agua de jamaica",
+        "descripcion":"Agua de jamaica",
+        "precio":22,
+        "imagen":"img/helado.jpg"
     },
     {
-        "id":19,
-        "nombre":"T",
-        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
-        "precio $":100,
-        "imagen":"img/.jpg"
-    },
-    {
-        "id":20,
-        "nombre":"T",
-        "descripción":"doble carne con tocino, queso amarillo, jalapeño",
-        "precio $":100,
-        "imagen":"img/.jpg"
+        "id":31,
+        "nombre":"Agua de melón",
+        "descripcion":"Agua de melón",
+        "precio":20,
+        "imagen":"img/helado.jpg"
     }
 ]}
