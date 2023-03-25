@@ -1,7 +1,7 @@
 body{
-    font-family: 'Suboleya', sans-serif;
+   
     font-size: 16px;                                                                                    
-    background-color: rgb(250, 243, 214);
+    background-color:  #F6EBE3;
                                                 
 }
 .center{
@@ -19,8 +19,9 @@ body{
     text-align: center;
 }
 h1{
+    font-family: 'Bariol Bold', sans-serif;  
     margin-left: 200px;
-    color: rgb(28, 48, 63);
+    color: rgb(37, 94, 138);
 }
 h3{
     margin-left: 200px;
@@ -32,13 +33,95 @@ table{
     text-align: center;
     width: 700px;
 }
-
 th{
     color: rgb(37, 41, 41)
 }
-
-.hamburguesa{
-color:rgb(221, 181, 144)
-}
-
-
+img{
+    height: 300px;
+    width: 400px;
+    }
+    .collage{
+        position: relative;
+        width: 1900px;
+        height: 718px;
+        background-color: #e2df49;
+        border-radius: 10px;
+        opacity: 0.9;
+        }
+        .imagen1{
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 200px;
+            height: 200px;
+            z-index:1;
+            box-shadow:2px 2px 2px #1b1b1b;
+        }
+        
+        .imagen2{
+            position: absolute;
+            top: 390px;
+            left: 10px;
+            width: 200px;
+            height: 200px;
+            z-index:2;
+            box-shadow:2px 2px 2px #181818;
+        }
+        
+        .imagen3{
+            position: absolute;
+            top: 10px;
+            left: 950px;
+            width: 200px;
+            height: 200px;
+            z-index:3;
+            box-shadow:2px 2px 2px #161616;
+        }
+        
+        .imagen4{
+            position: absolute;
+            top: 390px;
+            left: 480px;
+            width: 200px;
+            height: 200px;
+            z-index:4;
+            box-shadow:2px 2px 2px #202020;
+        }
+        
+        .imagen5{
+            position: absolute;
+            top: 10px;
+            left: 490px;
+            width: 100px;
+            height: 200px;
+            z-index:5;
+            box-shadow:2px 2px 2px #222221;
+        }
+        
+        .imagen6{
+            position: absolute;
+            top: 390px;
+            left: 990px;
+            width: 200px;
+            height: 200px;
+            z-index:6;
+            box-shadow:2px 2px 2px #242323;
+        }
+        .imagen7{
+            position: absolute;
+            top: 10px;
+            left: 1470px;
+            width: 200px;
+            height: 200px;
+            z-index:7;
+            box-shadow:2px 2px 2px #FFB30F;
+        }
+        .imagen8{
+            position: absolute;
+            top: 390px;
+            left: 1470px;
+            width: 200px;
+            height: 200px;
+            z-index:8;
+            box-shadow:2px 2px 2px #FFB30F;
+        }
